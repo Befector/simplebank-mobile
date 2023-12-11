@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.16
+Name: simplebank
+Formal-Name: SimpleBank
+App-ID: com.example.simplebank
+Version: 0.0.1
+Home-page: https://github.com/Befector/SimpleBank
+Download-URL: https://github.com/Befector/SimpleBank
+Author: Befector
+Author-email: befector@proton.me
+Summary: SimpleBank
